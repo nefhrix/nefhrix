@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nefhrix
-- 👀 I’m interested in desktop apps
-- 🌱 I’m currently learning learning web development, design and databases
-- 💞️ I’m looking to collaborate on maybe a game in the future
+
+I’m interested in desktop apps
+Currently working on my final year project, using computer vision and ai model training for volleyball video analysis.
+
 
 <!---
 nefhrix/nefhrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
