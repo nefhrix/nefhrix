@@ -1,5 +1,5 @@
 
-I’m interested in desktop apps
+
 Currently working on my final year project, using computer vision and ai model training for volleyball video analysis.
 
 
